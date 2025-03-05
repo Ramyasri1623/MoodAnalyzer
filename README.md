@@ -44,12 +44,23 @@
 
 ## **Screenshots**  
 ![image alt](https://github.com/Ramyasri1623/MoodAnalyzer/blob/6f566fc0d384d84af44406de2e8abd68d73bd150/homepage.png)
+
+
 ![image alt](https://github.com/Ramyasri1623/MoodAnalyzer/blob/6f566fc0d384d84af44406de2e8abd68d73bd150/loginpage.png)
+
+
 ![image alt](https://github.com/Ramyasri1623/MoodAnalyzer/blob/6f566fc0d384d84af44406de2e8abd68d73bd150/registerpage.png)
+
+
 ![image alt](https://github.com/Ramyasri1623/MoodAnalyzer/blob/6f566fc0d384d84af44406de2e8abd68d73bd150/questionspage.png
 )
+
+
+
 ![image alt](https://github.com/Ramyasri1623/MoodAnalyzer/blob/6f566fc0d384d84af44406de2e8abd68d73bd150/analysispage.png
 )
+
+<br><br>
 ![image alt](https://github.com/Ramyasri1623/MoodAnalyzer/blob/6f566fc0d384d84af44406de2e8abd68d73bd150/page2.png)
 
 ## **Contributing**  
